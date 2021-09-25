@@ -18,17 +18,17 @@ A entidade Pessoa possui nome, CPF, RG e endereço. Já a entidade Endreço poss
     POST -> http://localhost:8080/pessoas
     
     {
-    "nome": "Anny Sena",
-    "cpf": "51309493820",
-    "rg": "500775655", 
+    "nome": "",
+    "cpf": "",
+    "rg": "", 
     "enderecos":[
         {
-        "cep": "02757110",
-        "numero": "133"
+        "cep": "",
+        "numero": ""
         },
         {
-        "cep": "11790000",
-        "numero": "747"
+        "cep": "",
+        "numero": ""
         }
      ] 
   }
