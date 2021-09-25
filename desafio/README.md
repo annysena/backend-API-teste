@@ -12,7 +12,7 @@ O projeto deverá estar com um ambiente de testes configurado acessando o banco 
 
 A entidade Pessoa possui nome, CPF, RG e endereço. Já a entidade Endreço possui CEP, rua, número, bairro, cidade e estado.
 
-    ## No Postiman (ou outro ambiente de testes)
+   No Postiman (ou outro ambiente de testes)
 ---
     Inserção de pessoas e seu respectivo endereço
     POST -> http://localhost:8080/pessoas
@@ -38,4 +38,6 @@ A entidade Pessoa possui nome, CPF, RG e endereço. Já a entidade Endreço poss
 ---
     Consultar CEP
     GET -> http://localhost:8080/cep/02757110
-   
+---
+
+OBS: Lembrando sempre que as informações que inserimos pode ser de sua preferência. 
