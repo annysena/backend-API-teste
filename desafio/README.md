@@ -30,7 +30,8 @@ A entidade Pessoa possui nome, CPF, RG e endereço. Já a entidade Endreço poss
         "cep": "11790000",
         "numero": "747"
         }
-    ] 
+     ] 
+  }
 ---
     Consultar pessoas
     GET -> http://localhost:8080/pessoas/todas
